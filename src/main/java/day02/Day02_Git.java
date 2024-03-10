@@ -6,6 +6,7 @@ public class Day02_Git {
 
         // version two
         System.out.println("you can do it");
-        cls
+// version 3
+        System.out.println("maryam");
     }
 }

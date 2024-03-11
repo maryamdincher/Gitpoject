@@ -6,12 +6,13 @@ public class Day02_Git {
 
         //git remote set-url origin
         https://github.com/maryamdincher/GitProJace.git
-
+//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
 
       //token--  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
         System.out.println("you can do it");
 // version 3
         System.out.println("maryam");
         System.out.println("github dememsi");
+        System.out.println("deded");
     }
 }

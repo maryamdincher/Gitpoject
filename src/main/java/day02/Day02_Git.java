@@ -12,5 +12,6 @@ public class Day02_Git {
         System.out.println("you can do it");
 // version 3
         System.out.println("maryam");
+        System.out.println("github dememsi");
     }
 }
